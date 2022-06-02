@@ -176,8 +176,14 @@ section, section > h2 {
 h1 {
     text-align: center;
 }
-section {
+#section-1 {
 	background-color: #606768;
+}
+#section-2 {
+	background-color: #526d70;
+}
+#section-3 {
+	background-color: #32636a;
 }
 
 #section-1 > h2 {
